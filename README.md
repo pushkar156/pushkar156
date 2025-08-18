@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pushkar Gangurde</h1>
 <h3 align="center">Under-construction Programmer.</h3>
 
-- 🔭 I’m currently working on **EMERGENCY**
+- 🔭 I’m currently working on **FinBot**
 
 - 🌱 I’m currently learning **Backend and Frameworks**
 
-- 💬 Ask me about **Web Development and Python**
+- 💬 Ask me about **Web Development and Basic Python**
 
 - 📫 How to reach me **pushkargangurde54@gmail.com**
 
