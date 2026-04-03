@@ -16,11 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pushkar156&theme=github_dark&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false&border_radius=10" alt="GitHub Trophies" />
-</p>
-
-
 ---
 
 ## 📍 Quick Navigation
