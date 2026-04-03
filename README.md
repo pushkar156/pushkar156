@@ -193,18 +193,6 @@ I'm always open to collaborating on exciting projects or just geeking out about 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkar156&theme=github-dark&hide_border=false&stroke=0000&background=0D1117&ring=999999&fire=999999&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar156&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=999999&text_color=C9D1D9&icon_color=999999" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=pushkar156&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=999999&text_color=C9D1D9&icon_color=999999&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pushkar156&bg_color=0d1117&color=999999&line=999999&point=cccccc&hide_border=false&area=true&area_color=161b22" />
-</p>
-
-
-
 ---
 
 <div align="center">
@@ -214,17 +202,17 @@ I'm always open to collaborating on exciting projects or just geeking out about 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pushkar156/pushkar156/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/pushkar156/pushkar156/output/github-contribution-grid-snake.svg">
   </picture>
-  <br/>
-  <!-- Pacman Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pushkar156/pushkar156/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pushkar156/pushkar156/output/pacman-contribution-graph-light.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/pushkar156/pushkar156/output/pacman-contribution-graph-dark.svg">
-  </picture>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Always%20Under%20Construction%20%F0%9F%94%A7-333333?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pushkar156&bg_color=0d1117&color=999999&line=999999&point=cccccc&hide_border=false&area=true&area_color=161b22" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Seeking%20Knowledge%20%F0%9F%94%A7-333333?style=for-the-badge&logo=googlescholar&logoColor=white" />
 </p>
