@@ -190,7 +190,11 @@ I'm always open to collaborating on exciting projects or just geeking out about 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pushkar156/pushkar156/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pushkar156/pushkar156/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pushkar156/pushkar156/output/pacman-contribution-graph-light.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/pushkar156/pushkar156/output/pacman-contribution-graph-dark.svg">
+  </picture>
 </p>
 
 ---

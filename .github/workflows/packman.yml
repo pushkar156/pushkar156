@@ -1,8 +1,8 @@
 name: Generate Pacman
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # execute every 24 hours
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -15,18 +15,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: generate pacman-contribution-graph.svg (dark)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          background_color: "#0d1117"
-          head_color: "#888888"
-          food_color: "#666666"
-          color_empty: "#161b22"
-          color_1: "#2d2d2d"
-          color_2: "#555555"
-          color_3: "#777777"
-          color_4: "#999999"
+          theme: "github-dark"
+
+      - name: generate pacman-contribution-graph.svg (light)
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          theme: "github"
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
