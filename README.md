@@ -1,137 +1,63 @@
-![Pushkar Gangurde Banner](https://raw.githubusercontent.com/pushkar156/pushkar156/main/banner_github.png)
+![Pushkar Gangurde - Web Dev & AI/ML Explorer Banner](https://raw.githubusercontent.com/pushkar156/pushkar156/main/banner_github.png)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Pushkar+%F0%9F%91%8B)
-![Subtitle](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Web+Dev+%E2%80%A2+AI%2FML+Explorer+%E2%80%A2+Backend+Learner+%E2%80%A2+Night+Owl+%F0%9F%A6%89)
+![Hey, I'm Pushkar 👋](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Pushkar+%F0%9F%91%8B)
+![Web Dev • AI/ML Explorer • Backend Learner • Night Owl](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Web+Dev+%E2%80%A2+AI%2FML+Explorer+%E2%80%A2+Backend+Learner+%E2%80%A2+Night+Owl)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pushkar156&style=for-the-badge&color=333333" alt="Profile Views" />
   <a href="https://linkedin.com/in/pushkar-gangurde">
-    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="mailto:pushkargangurde54@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=333333&height=2&section=header&width=100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pushkar156&theme=nord&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=333333&height=2&section=header&width=100%" />
-</p>
 
 ---
 
-## 👨‍💻 About Me
+## 📍 Quick Navigation
 
-> *"Under-construction programmer — always building, always learning."*
-
-I'm **Pushkar Gangurde**, a 2nd year Computer Science Engineering student based in **Pune, India** 📍.
-I love building things for the web, diving into backend systems, and exploring how AI/ML can solve real problems.
-When the world's asleep, I'm still coding 🦉 — fueled by curiosity and a refusal to leave bugs unfixed.
-
-- 🔭 Currently building **FinBot** — a finance-focused bot
-- 🌱 Actively learning **Backend Development & Frameworks**
-- 💬 Ask me about **Web Development & Python**
-- 🌐 Exploring **AI/ML, DevOps & Cloud**
-- 📫 Reach me at **pushkargangurde54@gmail.com**
+- [🛠️ Tech Stack](#-tech-stack-breakdown)
+- [🚀 Featured Projects](#-featured-projects)
+- [🗓️ My Journey](#-my-journey-so-far)
+- [📊 GitHub Stats](#-github-stats)
+- [📫 Connect With Me](#-lets-connect)
 
 ---
 
 ## 🛠️ Tech Stack Breakdown
 
-### 💻 Languages
+<div align="center">
 
-![C](https://img.shields.io/badge/C-333333?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-333333?style=for-the-badge&logo=php&logoColor=white)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/C-333333?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-333333?style=for-the-badge&logo=php&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=next.js&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-333333?style=for-the-badge&logo=django&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase&logoColor=white) |
+| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-333333?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-333333?style=for-the-badge&logo=github-actions&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-333333?style=for-the-badge&logo=oracle&logoColor=white) |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-333333?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-333333?style=for-the-badge&logo=arduino&logoColor=white) |
 
-- **C / C++:** Low-level systems and algorithm development — including a hand-rolled CNN in C++.
-- **Python:** Backend logic, automation, and AI/ML experimentation.
-- **JavaScript / TypeScript:** Full-stack web apps and modern frontend interfaces.
-- **PHP:** Server-side scripting for web applications.
-
----
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-333333?style=for-the-badge&logo=django&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-333333?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-- **HTML5 / CSS3:** The bedrock of every web project.
-- **Bootstrap:** Fast, responsive UI layouts.
-- **React & Next.js:** Modern, performant frontend applications.
-- **Node.js & Django:** Server-side frameworks for building robust backends.
+</div>
 
 ---
 
-### 🧠 AI / ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-333333?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas&logoColor=white)
-
-- **TensorFlow:** Building and training deep learning models.
-- **OpenCV:** Computer vision and image processing pipelines.
-- **NumPy / Pandas:** Data manipulation and numerical computing.
-
 ---
 
-### ☁️ DevOps & Cloud
-
-![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-333333?style=for-the-badge&logo=github-actions&logoColor=white)
-
-- **Git:** Version control backbone for all my projects.
-- **Linux:** Primary development environment.
-- **Firebase:** Real-time backend and hosting for web apps.
-- **GitHub Actions:** Automating workflows and CI/CD pipelines.
-
----
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-333333?style=for-the-badge&logo=oracle&logoColor=white)
-
-- **MongoDB:** Flexible NoSQL database for document-based data.
-- **MySQL / Oracle:** Relational databases for structured, query-heavy systems.
-
----
-
-### 🎨 Design Tools
-
-![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-333333?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-333333?style=for-the-badge&logo=arduino&logoColor=white)
-
----
 
 ## 🚀 Featured Projects
 
-| Project | Tech | Description |
-|---|---|---|
-| [FinBot](https://github.com/pushkar156) | Python, Backend, In Progress | 🤖 A finance-focused bot — my current main project. Automating financial workflows with smart logic. |
-| [AmericanSignLanguageCNN](https://github.com/pushkar156/AmericanSignLanguageCNN) | C++, CNN, Computer Vision | ⭐ Implemented a Convolutional Neural Network from scratch in C++ to recognize ASL hand gestures. |
-| [morrigan](https://github.com/pushkar156/morrigan) | TypeScript | ⭐ A TypeScript project exploring modern backend patterns and architecture. |
+<div align="center">
+
+| [FinBot](https://github.com/pushkar156) | [ASL CNN](https://github.com/pushkar156/AmericanSignLanguageCNN) | [Morrigan](https://github.com/pushkar156/morrigan) |
+| :---: | :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api/pin/?username=pushkar156&repo=pushkar156&theme=github_dark" width="300" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=pushkar156&repo=AmericanSignLanguageCNN&theme=github_dark" width="300" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=pushkar156&repo=morrigan&theme=github_dark" width="300" /> |
+| 🤖 Finance automation bot with smart logic. | ⭐ ASL recognition using a custom C++ CNN. | ⭐ Modern backend patterns with TypeScript. |
+| ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) | ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat-square&logo=c%2B%2B) | ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript) |
+
+</div>
 
 ---
 
@@ -163,11 +89,9 @@ I'm always open to collaborating on exciting projects or just geeking out about 
 
 | | |
 |---|---|
-| ![Night Owl](https://img.shields.io/badge/🦉_Night_Owl_Coder-333333?style=for-the-badge) | My best code gets written when the rest of the world is asleep. |
-| ![Builder](https://img.shields.io/badge/🔧_Under_Construction-333333?style=for-the-badge) | Always breaking things apart just to build them back better. |
 | ![Pune](https://img.shields.io/badge/📍_Pune,_India-333333?style=for-the-badge) | Proudly from the tech capital of Maharashtra. |
 | ![WFH](https://img.shields.io/badge/🏠_Work_From_Home-333333?style=for-the-badge) | Home is where the code is. |
-| ![CS Student](https://img.shields.io/badge/🎓_CS_Engineering_•_2nd_Year-333333?style=for-the-badge) | Still in year 2 and already building real-world stuff. |
+| ![CS Student](https://img.shields.io/badge/🎓_CS_Student-333333?style=for-the-badge) | Still in year 2 and already building real-world stuff. |
 
 ---
 
@@ -187,10 +111,18 @@ I'm always open to collaborating on exciting projects or just geeking out about 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pushkar156&bg_color=0d1117&color=999999&line=999999&point=cccccc&hide_border=false&area=true&area_color=161b22" />
 </p>
 
+
 ---
 
-<p align="center">
-  <picture>
+<div align="center">
+  <h3>🎧 What's on my playlist?</h3>
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=pushkar156&cover_image=true&theme=remix" alt="Now Playing" />
+  </a>
+  <p><i>(Note: This requires repository secrets to be live. Follow the instructions in the Implementation Plan!)</i></p>
+</div>
+
+---
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pushkar156/pushkar156/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pushkar156/pushkar156/output/pacman-contribution-graph-light.svg">
     <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/pushkar156/pushkar156/output/pacman-contribution-graph-dark.svg">
