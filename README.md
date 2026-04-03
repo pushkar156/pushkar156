@@ -189,7 +189,9 @@ I'm always open to collaborating on exciting projects or just geeking out about 
 
 ---
 
-![github-snake](https://raw.githubusercontent.com/pushkar156/pushkar156/output/github-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pushkar156/pushkar156/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
+</p>
 
 ---
 
