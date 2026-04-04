@@ -209,35 +209,42 @@ CNN built from scratch in C++ for ASL gesture recognition — ~88.5% accuracy.
 
 </div>
 
----
- 
- ## 📜 Certifications
- 
- <div align="center">
-   <div style="background-color: #0D1117; border-radius: 6px; padding: 20px; border: 1px solid #30363d; margin-bottom: 20px;">
-     <p>🏅 Currently working on certifications in AI, ML, and Cloud Mastery.</p>
-   </div>
- </div>
-
  ---
+ 
 <a id="my-journey"></a>
 ## 🗓️ My Journey So Far
 
 ```mermaid
 timeline
     title Pushkar's Tech Journey
-    Year 1 🌱
-        : Introduced to C and C++
-        : Algorithm Foundations
-        : HTML & CSS Basics
-    Year 2 🔥
-        : Full-Stack with React & Node.js
-        : AI/ML Exploration (ASL CNN)
-        : Backend Logic with Django
-    Future 🚀
-        : Cloud & DevOps Mastery
-        : Deeper AI/ML Research
-        : Open Source Contributions
+    Web Dev
+        : Initially made web pages with html & css
+        : Got to know about Javascript and Typescript more
+        : Learned libraries like React, Three.JS, Lenis, also learned next.js and bootstrap frameworks
+        : Various backend techniques node.js, flask, fastapi
+        : Used databases like mongodb, firestore, mysql, postgresql
+        : Worked on industrial projects like AKSIS, Aura, Morrigan
+        : Looking forward to get hands on experience for full stack projects
+    Dev Ops
+        : Leanred deployement tools like vercel, supabase, netlify, AWS
+        : Using version control technique (GitHub) everyday
+        : Learning about containerzing tools like Docker
+    AI/ML
+        : Mastered Python (Basic)
+        : Learned Maths for ML and basics for ML
+        : Got some experience while making a Nueral Network project
+        : Looking forward to learn about GenAI, LLM, Deep Leaning, etc and lean to make good projects
+    Cyber Sec
+        : Came as explorer to the feild
+        : Learned about Linux and various techniques in cyber sec for problem solving
+        : Participated in 24-hr CTF to get more experince
+        : Looking forward to explore the CTFs and Cyber Security
+    Data Structures
+        : Algorithm Foundations and Problem Solving core
+        : Currently practicing problems on Leetcode
+    Other
+        : Always trying new Agents, LLMs, CLIs, Tools, IDEs in market
+        : Planning to get more Open Source Contributions
 ```
 
 <div align="center">
