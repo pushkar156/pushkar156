@@ -26,15 +26,16 @@
 
 ## 📍 Quick Navigation
 
-- [🛠️ Tech Stack](#tech-stack-breakdown)
+- [🛠️ Tech Stack](#tech-stack)
 - [🚀 Featured Projects](#featured-projects)
-- [🗓️ My Journey](#my-journey-so-far)
-- [📫 Connect With Me](#lets-connect)
-- [✨ Fun Facts](#fun-facts-about-me)
-- [📊 GitHub Stats](#github-stats)
+- [🗓️ My Journey](#my-journey)
+- [📫 Connect With Me](#connect)
+- [✨ Fun Facts](#fun-facts)
+- [📊 GitHub Stats](#stats)
 
 ---
 
+<a id="tech-stack"></a>
 ## 🛠️ Tech Stack Breakdown
 
 <div align="center">
@@ -55,6 +56,7 @@
 
 ---
 
+<a id="featured-projects"></a>
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -218,6 +220,7 @@ CNN built from scratch in C++ for ASL gesture recognition — ~88.5% accuracy.
  </div>
 
  ---
+<a id="my-journey"></a>
 ## 🗓️ My Journey So Far
 
 ```mermaid
@@ -261,6 +264,7 @@ timeline
 
 ---
 
+<a id="connect"></a>
 ## 📫 Let's Connect
 
 I'm always open to collaborating on exciting projects or just geeking out about tech!
@@ -276,6 +280,7 @@ I'm always open to collaborating on exciting projects or just geeking out about 
 ---
 
 
+<a id="fun-facts"></a>
 ## ✨ Fun Facts About Me
 
 <div align="center">
@@ -301,6 +306,7 @@ I'm always open to collaborating on exciting projects or just geeking out about 
 
 ---
 
+<a id="stats"></a>
 ## 📊 GitHub Stats
 
 <p align="center">
