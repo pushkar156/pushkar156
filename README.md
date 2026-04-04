@@ -26,12 +26,12 @@
 
 ## 📍 Quick Navigation
 
-- [🛠️ Tech Stack](#-tech-stack-breakdown)
-- [🚀 Featured Projects](#-featured-projects)
-- [🗓️ My Journey](#-my-journey-so-far)
-- [📫 Connect With Me](#-lets-connect)
-- [✨ Fun Facts](#-fun-facts-about-me)
-- [📊 GitHub Stats](#-github-stats)
+- [🛠️ Tech Stack](#tech-stack-breakdown)
+- [🚀 Featured Projects](#featured-projects)
+- [🗓️ My Journey](#my-journey-so-far)
+- [📫 Connect With Me](#lets-connect)
+- [✨ Fun Facts](#fun-facts-about-me)
+- [📊 GitHub Stats](#github-stats)
 
 ---
 
