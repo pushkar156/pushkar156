@@ -5,13 +5,8 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Pushkar+%F0%9F%91%8B" alt="Hey, I'm Pushkar 👋" />
   
-  <br>
-
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Web+Dev+%E2%80%A2+AI%2FML+Explorer+%E2%80%A2+Backend+Learner+%E2%80%A2+Night+Owl" alt="Web Dev • AI/ML Explorer • Backend Learner • Night Owl" />
 
-  <br><br>
-
-  <h3>Hey I am pushkar and the web dev ai ml explorer and all</h3>
 </div>
 
 <p align="center">
@@ -33,10 +28,10 @@
 
 - [🛠️ Tech Stack](#-tech-stack-breakdown)
 - [🚀 Featured Projects](#-featured-projects)
-- [📜 Certifications](#-certifications)
 - [🗓️ My Journey](#-my-journey-so-far)
-- [📊 GitHub Stats](#-github-stats)
 - [📫 Connect With Me](#-lets-connect)
+- [✨ Fun Facts](#-fun-facts-about-me)
+- [📊 GitHub Stats](#-github-stats)
 
 ---
 
@@ -213,6 +208,16 @@ CNN built from scratch in C++ for ASL gesture recognition — ~88.5% accuracy.
 </div>
 
 ---
+ 
+ ## 📜 Certifications
+ 
+ <div align="center">
+   <div style="background-color: #0D1117; border-radius: 6px; padding: 20px; border: 1px solid #30363d; margin-bottom: 20px;">
+     <p>🏅 Currently working on certifications in AI, ML, and Cloud Mastery.</p>
+   </div>
+ </div>
+
+ ---
 ## 🗓️ My Journey So Far
 
 ```mermaid
