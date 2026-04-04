@@ -1,5 +1,5 @@
 ![Pushkar Gangurde - Web Dev & AI/ML Explorer Banner](https://raw.githubusercontent.com/pushkar156/pushkar156/main/banner_github.png)
-
+ 
 ![Hey, I'm Pushkar 👋](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Pushkar+%F0%9F%91%8B)
 ![Web Dev • AI/ML Explorer • Backend Learner • Night Owl](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Web+Dev+%E2%80%A2+AI%2FML+Explorer+%E2%80%A2+Backend+Learner+%E2%80%A2+Night+Owl)
 
@@ -49,56 +49,162 @@
 
 ---
 
----
-
-
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| [ASL CNN](https://github.com/pushkar156/AmericanSignLanguageCNN) | [Morrigan](https://github.com/pushkar156/morrigan) |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=pushkar156&repo=AmericanSignLanguageCNN&theme=github_dark" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=pushkar156&repo=morrigan&theme=github_dark" width="400" /> |
-| ⭐ ASL recognition using a custom C++ CNN. | ⭐ Modern backend patterns with TypeScript. |
-| ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat-square&logo=c%2B%2B) | ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript) |
+### 🟢 Completed &nbsp;&nbsp; 🟡 Working On It &nbsp;&nbsp; 🔴 Needs Improvement
+
+---
+
+<table>
+
+<!-- Row 1 -->
+<tr>
+<td align="center" width="33%">
+
+**[🗺️ Campus-Route](https://github.com/pushkar156/Campus-Route)**
+
+Smart campus navigation for MIT-WPU using graph algorithms.
+
+![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat-square&logo=c%2B%2B) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=flask) ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
+
+![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+
+**[📦 OptiTrack-CLI](https://github.com/pushkar156/OptiTrack-CLI)**
+
+High-performance OOP inventory system with role-based access.
+
+![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat-square&logo=c%2B%2B) ![CMake](https://img.shields.io/badge/-CMake-333333?style=flat-square&logo=cmake)
+
+![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+
+**[🖥️ OptiTrack-GUI](https://github.com/pushkar156/OptiTrack-GUI)**
+
+GUI version of OptiTrack — currently under construction.
+
+![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat-square&logo=c%2B%2B)
+
+![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
+
+</td>
+</tr>
+
+<!-- Row 2 -->
+<tr>
+<td align="center" width="33%">
+
+**[🛣️ Pothole Patrol](https://github.com/pushkar156/Pothole_Patrol)**
+
+AI-powered crowdsourced road damage detection & auto-dispatch.
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) ![YOLOv8](https://img.shields.io/badge/-YOLOv8-333333?style=flat-square&logo=opencv) ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat-square&logo=fastapi)
+
+![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+
+**[🌐 morrigan](https://github.com/pushkar156/morrigan)**
+
+Web app with chatbot backend — active team collaboration.
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=css3) ![JS](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
+
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+
+**[🔀 Ductus](https://github.com/pushkar156/Ductus)**
+
+AI-powered flowchart generator using Google Gemini.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript) ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat-square&logo=google)
+
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+
+</td>
+</tr>
+
+<!-- Row 3 -->
+<tr>
+<td align="center" width="33%">
+
+**[📸 PhotoNarrator](https://github.com/pushkar156/PhotoNarrator)**
+
+Photo storytelling web app with AI captions & Firebase backend.
+
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=next.js) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase) ![TS](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript)
+
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+
+**[🍽️ Aura](https://github.com/pushkar156/Aura)**
+
+Mobile-first restaurant menu app with 80+ items & dark mode.
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=css3) ![JS](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
+
+![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+
+**[🧭 Career-Compass](https://github.com/pushkar156/Career-Compass)**
+
+AI career counselor with personalized roadmaps & Gemini AI.
+
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=next.js) ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat-square&logo=google) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase)
+
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+
+</td>
+</tr>
+
+<!-- Row 4 -->
+<tr>
+<td align="center" width="33%">
+
+**[⚽ AiScout](https://github.com/pushkar156/AiScout)**
+
+Football player performance analysis with CV & Streamlit dashboard.
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) ![YOLOv8](https://img.shields.io/badge/-YOLOv8-333333?style=flat-square&logo=opencv) ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat-square&logo=streamlit)
+
+![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+
+**[🤟 AmericanSignLanguageCNN](https://github.com/pushkar156/AmericanSignLanguageCNN)**
+
+CNN built from scratch in C++ for ASL gesture recognition — ~88.5% accuracy.
+
+![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat-square&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=flask)
+
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+<!-- Empty — reserved for next project -->
+</td>
+</tr>
+
+</table>
 
 </div>
 
 ---
-
-
-## 📜 Certifications
-
-<div align="center">
-  <div style="background-color: #0D1117; border-radius: 6px; padding: 20px; border: 1px solid #30363d; margin-bottom: 20px;">
-    <table width="90%" align="center" style="border: none;">
-      <tr>
-        <td width="48%" align="right" valign="middle">
-          <img src="https://img.shields.io/badge/📜_Full--Stack_Web_Dev-333333?style=for-the-badge" alt="Web Dev" />
-        </td>
-        <td width="52%" align="left" valign="middle">Certified in modern web architectures and MERN stack.</td>
-      </tr>
-      <tr><td colspan="2" height="15"></td></tr>
-      <tr>
-        <td width="48%" align="right" valign="middle">
-          <img src="https://img.shields.io/badge/🧠_Python_for_DA-333333?style=for-the-badge" alt="Python Certification" />
-        </td>
-        <td width="52%" align="left" valign="middle">Expertise in automated data analysis and backend systems.</td>
-      </tr>
-      <tr><td colspan="2" height="15"></td></tr>
-      <tr>
-        <td width="48%" align="right" valign="middle">
-          <img src="https://img.shields.io/badge/🛠️_Problem_Solving_C++-333333?style=for-the-badge" alt="C++ HackerRank" />
-        </td>
-        <td width="52%" align="left" valign="middle">Recognized proficiency in advanced C++ algorithms.</td>
-      </tr>
-    </table>
-  </div>
-</div>
-
----
-
 ## 🗓️ My Journey So Far
 
 ```mermaid
