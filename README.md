@@ -213,38 +213,39 @@ CNN built from scratch in C++ for ASL gesture recognition — ~88.5% accuracy.
  
 <a id="my-journey"></a>
 ## 🗓️ My Journey So Far
-
 ```mermaid
 timeline
     title Pushkar's Tech Journey
     Web Dev
-        : Initially made web pages with html & css
-        : Got to know about Javascript and Typescript more
-        : Learned libraries like React, Three.JS, Lenis, also learned next.js and bootstrap frameworks
-        : Various backend techniques node.js, flask, fastapi
-        : Used databases like mongodb, firestore, mysql, postgresql
-        : Worked on industrial projects like AKSIS, Aura, Morrigan
-        : Looking forward to get hands on experience for full stack projects
-    Dev Ops
-        : Leanred deployement tools like vercel, supabase, netlify, AWS
-        : Using version control technique (GitHub) everyday
-        : Learning about containerzing tools like Docker
-    AI/ML
-        : Mastered Python (Basic)
-        : Learned Maths for ML and basics for ML
-        : Got some experience while making a Nueral Network project
-        : Looking forward to learn about GenAI, LLM, Deep Leaning, etc and lean to make good projects
-    Cyber Sec
-        : Came as explorer to the feild
-        : Learned about Linux and various techniques in cyber sec for problem solving
-        : Participated in 24-hr CTF to get more experince
-        : Looking forward to explore the CTFs and Cyber Security
+        : Started with HTML & CSS, built first static pages
+        : Picked up JavaScript and TypeScript for interactivity
+        : Learned React, Next.js, Three.js, Lenis, and Bootstrap
+        : Built backends with Node.js, Flask, FastAPI, and Django
+        : Worked with databases — MongoDB, Firestore, MySQL, PostgreSQL
+        : Shipped real projects — AKSIS, Aura, Morrigan, Career-Compass
+        : Currently focused on production-grade full-stack development
+    DevOps
+        : Deployed projects on Vercel, Netlify, and AWS
+        : Use Git and GitHub daily for version control
+        : Exploring containerization with Docker
+        : Automating workflows with n8n and GitHub Actions
+    AI / ML
+        : Built a CNN from scratch in C++ — no external ML libraries
+        : Applied YOLOv8 for real-time object detection in AiScout and Pothole Patrol
+        : Integrated LangChain agents for automated municipal dispatch
+        : Used Google Gemini API in Career-Compass and Ductus
+        : Exploring Deep Learning, LLM fine-tuning, and agentic AI systems
+    Cyber Security
+        : Started as a curious explorer of the field
+        : Learned Linux fundamentals and core security concepts
+        : Participated in a 24-hour CTF competition for hands-on experience
+        : Continuing to explore CTFs and offensive security techniques
     Data Structures
-        : Algorithm Foundations and Problem Solving core
-        : Currently practicing problems on Leetcode
+        : Strong foundations in algorithms and problem-solving via C and C++
+        : Actively practicing on LeetCode
     Other
-        : Always trying new Agents, LLMs, CLIs, Tools, IDEs in market
-        : Planning to get more Open Source Contributions
+        : Always experimenting with new agents, LLMs, CLIs, and dev tools
+        : Planning to increase open source contributions
 ```
 
 <div align="center">
@@ -252,18 +253,18 @@ timeline
     <h3>Milestones</h3>
     <table width="90%" align="center" style="border: none;">
       <tr>
-        <td align="right" width="180px" valign="top"><b>Year 1 🌱</b></td>
-        <td>Fell in love with problem-solving. Built first web pages. mastered C/C++ basics.</td>
+        <td align="right" width="180px" valign="top"><b>Past 🌱</b></td>
+        <td>Fell in love with problem-solving through C and C++. Built first web pages. Explored algorithms, data structures, and core CS fundamentals. Started experimenting with ML by building a CNN from scratch.</td>
       </tr>
       <tr><td colspan="2" height="10"></td></tr>
       <tr>
-        <td align="right" width="180px" valign="top"><b>Year 2 🔥</b></td>
-        <td>Diving into full-stack (React/Django). Launched ASL CNN project. Developing backend systems.</td>
+        <td align="right" width="180px" valign="top"><b>Present 🔥</b></td>
+        <td>Actively building full-stack and AI-powered projects — from YOLOv8 computer vision pipelines and LangChain agents to Next.js web apps. Shipping real products, collaborating with teams, and deepening backend and DevOps knowledge.</td>
       </tr>
       <tr><td colspan="2" height="10"></td></tr>
       <tr>
         <td align="right" width="180px" valign="top"><b>Future 🚀</b></td>
-        <td>Shipping production-ready AI tools, mastering infrastructure, and contributing to global OS projects.</td>
+        <td>Shipping production-ready AI tools, mastering cloud infrastructure, contributing to open source, and going deeper into LLMs, agentic systems, and cybersecurity.</td>
       </tr>
     </table>
   </div>
