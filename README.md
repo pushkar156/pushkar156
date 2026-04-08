@@ -86,7 +86,7 @@ High-performance OOP inventory system with role-based access.
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat-square&logo=c%2B%2B) ![CMake](https://img.shields.io/badge/-CMake-333333?style=flat-square&logo=cmake)
 
-![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
