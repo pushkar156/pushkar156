@@ -71,7 +71,7 @@
 
 **[🗺️ Campus-Route](https://github.com/pushkar156/Campus-Route)**
 
-Smart campus navigation for MIT-WPU using graph algorithms.
+Smart navigation & infrastructure planning for MIT-WPU using Dijkstra and MST algorithms.
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat-square&logo=c%2B%2B) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=flask) ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
 
@@ -82,7 +82,7 @@ Smart campus navigation for MIT-WPU using graph algorithms.
 
 **[📦 OptiTrack-CLI](https://github.com/pushkar156/OptiTrack-CLI)**
 
-High-performance OOP inventory system with role-based access.
+OOPS-based inventory control system featuring RBAC and interactive CLI dashboards.
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat-square&logo=c%2B%2B) ![CMake](https://img.shields.io/badge/-CMake-333333?style=flat-square&logo=cmake)
 
@@ -277,6 +277,7 @@ timeline
 
 I'm always open to collaborating on exciting projects or just geeking out about tech!
 
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pushkar156)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushkar-gangurde)
 [![Twitter](https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pushkar714)
 [![Instagram](https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pushkarr_28)
