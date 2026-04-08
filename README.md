@@ -75,7 +75,7 @@ Smart campus navigation for MIT-WPU using graph algorithms.
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat-square&logo=c%2B%2B) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=flask) ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
 
-![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
