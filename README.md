@@ -69,6 +69,17 @@
 <tr>
 <td align="center" width="33%">
 
+**[🧠 O.V.I.](https://github.com/pushkar156/O.V.I.)**
+
+Omnipresent Voice Intelligence — local AI system for WiFi & Bluetooth connected devices.
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) ![IoT](https://img.shields.io/badge/-IoT-333333?style=flat-square&logo=raspberrypi) ![AI](https://img.shields.io/badge/-AI-333333?style=flat-square&logo=openai)
+
+![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+
 **[🛡️ Route Guard](https://github.com/pushkar156/RouteGuard)**
 
 AI-powered supply chain risk engine using Gemini for real-time insights.
@@ -250,7 +261,7 @@ timeline
         : Learned React, Next.js, Three.js, Lenis, and Bootstrap
         : Built backends with Node.js, Flask, FastAPI, and Django
         : Worked with databases — MongoDB, Firestore, MySQL, PostgreSQL
-        : Shipped real projects — RouteGuard, AKSIS, Aura, Morrigan, Career-Compass
+        : Shipped real projects — O.V.I., RouteGuard, AKSIS, Aura, Morrigan, Career-Compass
         : Currently focused on production-grade full-stack development
     DevOps
         : Deployed projects on Vercel, Netlify, and AWS
@@ -262,6 +273,7 @@ timeline
         : Applied YOLOv8 for real-time object detection in AiScout and Pothole Patrol
         : Integrated LangChain agents for automated municipal dispatch
         : Used Google Gemini API in RouteGuard, Career-Compass and Ductus
+        : Building O.V.I. — a local AI system for smart home device control
         : Exploring Deep Learning, LLM fine-tuning, and agentic AI systems
     Cyber Security
         : Started as a curious explorer of the field
