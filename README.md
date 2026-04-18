@@ -201,7 +201,35 @@ CNN built from scratch in C++ for ASL gesture recognition — ~88.5% accuracy.
 
 </td>
 <td align="center" width="33%">
+
+**[🏭 AKSIS](https://github.com/pushkar156/AKSIS)**
+
+High-performance industrial engineering website with PHP backend.
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=css3) ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php)
+
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+
+</td>
+</tr>
+
+<!-- Row 5 -->
+<tr>
+<td align="center" width="33%">
+
+**[🛡️ RouteGuard](https://github.com/pushkar156/RouteGuard)**
+
+AI-powered supply chain risk engine using Gemini for real-time insights.
+
+![JS](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript) ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat-square&logo=google) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat-square&logo=vercel)
+
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
 <!-- Empty — reserved for next project -->
+</td>
+<td align="center" width="33%">
 </td>
 </tr>
 
