@@ -69,6 +69,17 @@
 <tr>
 <td align="center" width="33%">
 
+**[🛡️ RouteGuard](https://github.com/pushkar156/RouteGuard)**
+
+AI-powered supply chain risk engine using Gemini for real-time insights.
+
+![JS](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript) ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat-square&logo=google) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat-square&logo=vercel)
+
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+
 **[🗺️ Campus-Route](https://github.com/pushkar156/Campus-Route)**
 
 Smart navigation & infrastructure planning for MIT-WPU using Dijkstra and MST algorithms.
@@ -89,6 +100,10 @@ OOPS-based inventory control system featuring RBAC and interactive CLI dashboard
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 2 -->
+<tr>
 <td align="center" width="33%">
 
 **[🖥️ OptiTrack-GUI](https://github.com/pushkar156/OptiTrack-GUI)**
@@ -100,10 +115,6 @@ GUI version of OptiTrack — currently under construction.
 ![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 2 -->
-<tr>
 <td align="center" width="33%">
 
 **[🛣️ Pothole Patrol](https://github.com/pushkar156/Pothole_Patrol)**
@@ -126,6 +137,10 @@ Web app with chatbot backend — active team collaboration.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 3 -->
+<tr>
 <td align="center" width="33%">
 
 **[🔀 Ductus](https://github.com/pushkar156/Ductus)**
@@ -137,10 +152,43 @@ AI-powered flowchart generator using Google Gemini.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+<td align="center" width="33%">
+
+**[⚽ AiScout](https://github.com/pushkar156/AiScout)**
+
+Football player performance analysis with CV & Streamlit dashboard.
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) ![YOLOv8](https://img.shields.io/badge/-YOLOv8-333333?style=flat-square&logo=opencv) ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat-square&logo=streamlit)
+
+![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+
+**[🧭 Career-Compass](https://github.com/pushkar156/Career-Compass)**
+
+AI career counselor with personalized roadmaps & Gemini AI.
+
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=next.js) ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat-square&logo=google) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase)
+
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+
+</td>
 </tr>
 
-<!-- Row 3 -->
+<!-- Row 4 -->
 <tr>
+<td align="center" width="33%">
+
+**[🤟 AmericanSignLanguageCNN](https://github.com/pushkar156/AmericanSignLanguageCNN)**
+
+CNN built from scratch in C++ for ASL gesture recognition — ~88.5% accuracy.
+
+![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat-square&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=flask)
+
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+
+</td>
 <td align="center" width="33%">
 
 **[📸 PhotoNarrator](https://github.com/pushkar156/PhotoNarrator)**
@@ -163,43 +211,10 @@ Mobile-first restaurant menu app with 80+ items & dark mode.
 ![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
 
 </td>
-<td align="center" width="33%">
-
-**[🧭 Career-Compass](https://github.com/pushkar156/Career-Compass)**
-
-AI career counselor with personalized roadmaps & Gemini AI.
-
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=next.js) ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat-square&logo=google) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase)
-
-![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
-
-</td>
 </tr>
 
-<!-- Row 4 -->
+<!-- Row 5 -->
 <tr>
-<td align="center" width="33%">
-
-**[⚽ AiScout](https://github.com/pushkar156/AiScout)**
-
-Football player performance analysis with CV & Streamlit dashboard.
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) ![YOLOv8](https://img.shields.io/badge/-YOLOv8-333333?style=flat-square&logo=opencv) ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat-square&logo=streamlit)
-
-![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
-
-</td>
-<td align="center" width="33%">
-
-**[🤟 AmericanSignLanguageCNN](https://github.com/pushkar156/AmericanSignLanguageCNN)**
-
-CNN built from scratch in C++ for ASL gesture recognition — ~88.5% accuracy.
-
-![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat-square&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=flask)
-
-![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
-
-</td>
 <td align="center" width="33%">
 
 **[🏭 AKSIS](https://github.com/pushkar156/AKSIS)**
@@ -207,21 +222,6 @@ CNN built from scratch in C++ for ASL gesture recognition — ~88.5% accuracy.
 High-performance industrial engineering website with PHP backend.
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=css3) ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php)
-
-![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
-
-</td>
-</tr>
-
-<!-- Row 5 -->
-<tr>
-<td align="center" width="33%">
-
-**[🛡️ RouteGuard](https://github.com/pushkar156/RouteGuard)**
-
-AI-powered supply chain risk engine using Gemini for real-time insights.
-
-![JS](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript) ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat-square&logo=google) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat-square&logo=vercel)
 
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
@@ -250,7 +250,7 @@ timeline
         : Learned React, Next.js, Three.js, Lenis, and Bootstrap
         : Built backends with Node.js, Flask, FastAPI, and Django
         : Worked with databases — MongoDB, Firestore, MySQL, PostgreSQL
-        : Shipped real projects — AKSIS, Aura, Morrigan, Career-Compass
+        : Shipped real projects — RouteGuard, AKSIS, Aura, Morrigan, Career-Compass
         : Currently focused on production-grade full-stack development
     DevOps
         : Deployed projects on Vercel, Netlify, and AWS
@@ -261,7 +261,7 @@ timeline
         : Built a CNN from scratch in C++ — no external ML libraries
         : Applied YOLOv8 for real-time object detection in AiScout and Pothole Patrol
         : Integrated LangChain agents for automated municipal dispatch
-        : Used Google Gemini API in Career-Compass and Ductus
+        : Used Google Gemini API in RouteGuard, Career-Compass and Ductus
         : Exploring Deep Learning, LLM fine-tuning, and agentic AI systems
     Cyber Security
         : Started as a curious explorer of the field
