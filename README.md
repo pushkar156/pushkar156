@@ -69,13 +69,13 @@
 <tr>
 <td align="center" width="33%">
 
-**[🛡️ RouteGuard](https://github.com/pushkar156/RouteGuard)**
+**[🛡️ Route Guard](https://github.com/pushkar156/RouteGuard)**
 
 AI-powered supply chain risk engine using Gemini for real-time insights.
 
 ![JS](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript) ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat-square&logo=google) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat-square&logo=vercel)
 
-![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
@@ -108,11 +108,11 @@ OOPS-based inventory control system featuring RBAC and interactive CLI dashboard
 
 **[🖥️ OptiTrack-GUI](https://github.com/pushkar156/OptiTrack-GUI)**
 
-GUI version of OptiTrack — currently under construction.
+High-fidelity GUI implementation of OptiTrack with real-time inventory monitoring.
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat-square&logo=c%2B%2B)
 
-![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
@@ -128,7 +128,7 @@ AI-powered crowdsourced road damage detection & auto-dispatch.
 </td>
 <td align="center" width="33%">
 
-**[🌐 morrigan](https://github.com/pushkar156/morrigan)**
+**[🌐 Morrigan](https://github.com/pushkar156/morrigan)**
 
 Web app with chatbot backend — active team collaboration.
 
@@ -154,7 +154,7 @@ AI-powered flowchart generator using Google Gemini.
 </td>
 <td align="center" width="33%">
 
-**[⚽ AiScout](https://github.com/pushkar156/AiScout)**
+**[⚽ AI Scout](https://github.com/pushkar156/AiScout)**
 
 Football player performance analysis with CV & Streamlit dashboard.
 
@@ -180,7 +180,7 @@ AI career counselor with personalized roadmaps & Gemini AI.
 <tr>
 <td align="center" width="33%">
 
-**[🤟 AmericanSignLanguageCNN](https://github.com/pushkar156/AmericanSignLanguageCNN)**
+**[🤟 ASL Detection Tool](https://github.com/pushkar156/AmericanSignLanguageCNN)**
 
 CNN built from scratch in C++ for ASL gesture recognition — ~88.5% accuracy.
 
