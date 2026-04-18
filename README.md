@@ -100,6 +100,10 @@ Smart navigation & infrastructure planning for MIT-WPU using Dijkstra and MST al
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 2 -->
+<tr>
 <td align="center" width="33%">
 
 **[📦 OptiTrack-CLI](https://github.com/pushkar156/OptiTrack-CLI)**
@@ -111,10 +115,6 @@ OOPS-based inventory control system featuring RBAC and interactive CLI dashboard
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 2 -->
-<tr>
 <td align="center" width="33%">
 
 **[🖥️ OptiTrack-GUI](https://github.com/pushkar156/OptiTrack-GUI)**
@@ -137,6 +137,10 @@ AI-powered crowdsourced road damage detection & auto-dispatch.
 ![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 3 -->
+<tr>
 <td align="center" width="33%">
 
 **[🌐 Morrigan](https://github.com/pushkar156/morrigan)**
@@ -148,10 +152,6 @@ Web app with chatbot backend — active team collaboration.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 3 -->
-<tr>
 <td align="center" width="33%">
 
 **[🔀 Ductus](https://github.com/pushkar156/Ductus)**
@@ -174,6 +174,10 @@ Football player performance analysis with CV & Streamlit dashboard.
 ![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 4 -->
+<tr>
 <td align="center" width="33%">
 
 **[🧭 Career-Compass](https://github.com/pushkar156/Career-Compass)**
@@ -185,10 +189,6 @@ AI career counselor with personalized roadmaps & Gemini AI.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 4 -->
-<tr>
 <td align="center" width="33%">
 
 **[🤟 ASL Detection Tool](https://github.com/pushkar156/AmericanSignLanguageCNN)**
@@ -211,6 +211,10 @@ Photo storytelling web app with AI captions & Firebase backend.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 5 -->
+<tr>
 <td align="center" width="33%">
 
 **[🍽️ Aura](https://github.com/pushkar156/Aura)**
@@ -222,10 +226,6 @@ Mobile-first restaurant menu app with 80+ items & dark mode.
 ![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 5 -->
-<tr>
 <td align="center" width="33%">
 
 **[🏭 AKSIS](https://github.com/pushkar156/AKSIS)**
@@ -239,8 +239,6 @@ High-performance industrial engineering website with PHP backend.
 </td>
 <td align="center" width="33%">
 <!-- Empty — reserved for next project -->
-</td>
-<td align="center" width="33%">
 </td>
 </tr>
 
