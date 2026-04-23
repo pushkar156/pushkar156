@@ -91,7 +91,7 @@ AI-powered supply chain risk engine using Gemini for real-time insights.
 </td>
 <td align="center" width="33%">
 
-**[🗺️ Campus-Route](https://github.com/pushkar156/Campus-Route)**
+**[🗺️ Campus Route](https://github.com/pushkar156/Campus-Route)**
 
 Smart navigation & infrastructure planning for MIT-WPU using Dijkstra and MST algorithms.
 
@@ -106,7 +106,7 @@ Smart navigation & infrastructure planning for MIT-WPU using Dijkstra and MST al
 <tr>
 <td align="center" width="33%">
 
-**[📦 OptiTrack-CLI](https://github.com/pushkar156/OptiTrack-CLI)**
+**[📦 OptiTrack CLI](https://github.com/pushkar156/OptiTrack-CLI)**
 
 OOPS-based inventory control system featuring RBAC and interactive CLI dashboards.
 
@@ -117,7 +117,7 @@ OOPS-based inventory control system featuring RBAC and interactive CLI dashboard
 </td>
 <td align="center" width="33%">
 
-**[🖥️ OptiTrack-GUI](https://github.com/pushkar156/OptiTrack-GUI)**
+**[🖥️ OptiTrack GUI](https://github.com/pushkar156/OptiTrack-GUI)**
 
 High-fidelity GUI implementation of OptiTrack with real-time inventory monitoring.
 
@@ -180,7 +180,7 @@ Football player performance analysis with CV & Streamlit dashboard.
 <tr>
 <td align="center" width="33%">
 
-**[🧭 Career-Compass](https://github.com/pushkar156/Career-Compass)**
+**[🧭 Career Compass](https://github.com/pushkar156/Career-Compass)**
 
 AI career counselor with personalized roadmaps & Gemini AI.
 
@@ -202,7 +202,7 @@ CNN built from scratch in C++ for ASL gesture recognition — ~88.5% accuracy.
 </td>
 <td align="center" width="33%">
 
-**[📸 PhotoNarrator](https://github.com/pushkar156/PhotoNarrator)**
+**[📸 Photo Narrator](https://github.com/pushkar156/PhotoNarrator)**
 
 Photo storytelling web app with AI captions & Firebase backend.
 
