@@ -223,7 +223,7 @@ Mobile-first restaurant menu app with 80+ items & dark mode.
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=css3) ![JS](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
 
-![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
