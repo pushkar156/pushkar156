@@ -75,7 +75,7 @@ Privacy-first, multi-view browser new tab extension that transforms your homepag
 
 ![JS](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=css3)
 
-![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
