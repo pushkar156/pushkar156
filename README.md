@@ -217,7 +217,7 @@ Photo storytelling web app with AI captions & Firebase backend.
 <tr>
 <td align="center" width="33%">
 
-**[🍽️ Aura](https://github.com/pushkar156/Aura)**
+**[🍽️ Aura](https://github.com/pushkar156/4ura)**
 
 Mobile-first restaurant menu app with 80+ items & dark mode.
 
