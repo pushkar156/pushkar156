@@ -69,6 +69,17 @@
 <tr>
 <td align="center" width="33%">
 
+**[💳 Ledger](https://github.com/pushkar156/Ledger)**
+
+Calm, precise Progressive Web App (PWA) to monitor daily spending, track recurring subscriptions, and manage savings.
+
+![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react) ![TS](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript) ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat-square&logo=supabase)
+
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+
 **[🌟 Santuario](https://github.com/pushkar156/Santuari0)**
 
 Privacy-first, multi-view browser new tab extension that transforms your homepage into a beautiful daily command center.
@@ -89,6 +100,10 @@ Omnipresent Voice Intelligence — local AI system for WiFi & Bluetooth connecte
 ![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 2 -->
+<tr>
 <td align="center" width="33%">
 
 **[🛡️ Route Guard](https://github.com/pushkar156/RouteGuard)**
@@ -100,10 +115,6 @@ AI-powered supply chain risk engine using Gemini for real-time insights.
 ![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 2 -->
-<tr>
 <td align="center" width="33%">
 
 **[🗺️ Campus Route](https://github.com/pushkar156/Campus-Route)**
@@ -126,6 +137,10 @@ OOPS-based inventory control system featuring RBAC and interactive CLI dashboard
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 3 -->
+<tr>
 <td align="center" width="33%">
 
 **[🖥️ OptiTrack GUI](https://github.com/pushkar156/OptiTrack-GUI)**
@@ -137,10 +152,6 @@ High-fidelity GUI implementation of OptiTrack with real-time inventory monitorin
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 3 -->
-<tr>
 <td align="center" width="33%">
 
 **[🛣️ Pothole Patrol](https://github.com/pushkar156/Pothole_Patrol)**
@@ -163,6 +174,10 @@ Web app with chatbot backend — active team collaboration.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 4 -->
+<tr>
 <td align="center" width="33%">
 
 **[🔀 Ductus](https://github.com/pushkar156/Ductus)**
@@ -174,10 +189,6 @@ AI-powered flowchart generator using Google Gemini.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 4 -->
-<tr>
 <td align="center" width="33%">
 
 **[⚽ AI Scout](https://github.com/pushkar156/AiScout)**
@@ -200,6 +211,10 @@ AI career counselor with personalized roadmaps & Gemini AI.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 5 -->
+<tr>
 <td align="center" width="33%">
 
 **[🤟 ASL Detection Tool](https://github.com/pushkar156/AmericanSignLanguageCNN)**
@@ -211,10 +226,6 @@ CNN built from scratch in C++ for ASL gesture recognition — ~88.5% accuracy.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 5 -->
-<tr>
 <td align="center" width="33%">
 
 **[📸 Photo Narrator](https://github.com/pushkar156/PhotoNarrator)**
@@ -237,6 +248,10 @@ Mobile-first restaurant menu app with 80+ items & dark mode.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 6 -->
+<tr>
 <td align="center" width="33%">
 
 **[🏭 AKSIS](https://github.com/pushkar156/AKSIS)**
@@ -248,6 +263,8 @@ High-performance industrial engineering website with PHP backend.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+<td align="center" width="33%"></td>
+<td align="center" width="33%"></td>
 </tr>
 
 </table>
@@ -267,7 +284,7 @@ timeline
         : Learned React, Next.js, Three.js, Lenis, and Bootstrap
         : Built backends with Node.js, Flask, FastAPI, and Django
         : Worked with databases — MongoDB, Firestore, MySQL, PostgreSQL
-        : Shipped real projects — Santuario, O.V.I., RouteGuard, AKSIS, Aura, Morrigan, Career-Compass
+        : Shipped real projects — Ledger, Santuario, O.V.I., RouteGuard, AKSIS, Aura, Morrigan, Career-Compass
         : Currently focused on production-grade full-stack development
     DevOps
         : Deployed projects on Vercel, Netlify, and AWS
