@@ -61,7 +61,12 @@
 
 <div align="center">
 
-### 🟢 Completed &nbsp;&nbsp; 🟡 Working On It &nbsp;&nbsp; 🔴 Needs Improvement
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Projects-16-333333?style=for-the-badge" alt="Total Projects" />
+  <img src="https://img.shields.io/badge/Completed-11-2ea043?style=for-the-badge" alt="Completed" />
+  <img src="https://img.shields.io/badge/Working_On_It-2-d29922?style=for-the-badge" alt="Working On It" />
+  <img src="https://img.shields.io/badge/Needs_Improvement-3-da3633?style=for-the-badge" alt="Needs Improvement" />
+</p>
 
 <table>
 
