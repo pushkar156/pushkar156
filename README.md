@@ -62,8 +62,8 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Projects-16-333333?style=for-the-badge" alt="Total Projects" />
-  <img src="https://img.shields.io/badge/Completed-11-2ea043?style=for-the-badge" alt="Completed" />
+  <img src="https://img.shields.io/badge/Total_Projects-17-333333?style=for-the-badge" alt="Total Projects" />
+  <img src="https://img.shields.io/badge/Completed-12-2ea043?style=for-the-badge" alt="Completed" />
   <img src="https://img.shields.io/badge/Working_On_It-2-d29922?style=for-the-badge" alt="Working On It" />
   <img src="https://img.shields.io/badge/Needs_Improvement-3-da3633?style=for-the-badge" alt="Needs Improvement" />
 </p>
@@ -72,6 +72,17 @@
 
 <!-- Row 1 -->
 <tr>
+<td align="center" width="33%">
+
+**[🧩 Yi Shubharambh](https://github.com/pushkar156/yi-shubharambh)**
+
+Interactive, real-time Word Search challenge with a Supabase-backed dual-screen host and player experience for CII Young Indians at Shubharambh 2026.
+
+![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react) ![TS](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript) ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat-square&logo=supabase)
+
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+
+</td>
 <td align="center" width="33%">
 
 **[💳 Ledger](https://github.com/pushkar156/Ledger)**
@@ -94,6 +105,10 @@ Privacy-first, multi-view browser new tab extension that transforms your homepag
 ![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 2 -->
+<tr>
 <td align="center" width="33%">
 
 **[🧠 O.V.I.](https://github.com/pushkar156/O.V.I.)**
@@ -105,10 +120,6 @@ Omnipresent Voice Intelligence — local AI system for WiFi & Bluetooth connecte
 ![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 2 -->
-<tr>
 <td align="center" width="33%">
 
 **[🛡️ Route Guard](https://github.com/pushkar156/RouteGuard)**
@@ -131,6 +142,10 @@ Smart navigation & infrastructure planning for MIT-WPU using Dijkstra and MST al
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 3 -->
+<tr>
 <td align="center" width="33%">
 
 **[📦 OptiTrack CLI](https://github.com/pushkar156/OptiTrack-CLI)**
@@ -142,10 +157,6 @@ OOPS-based inventory control system featuring RBAC and interactive CLI dashboard
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 3 -->
-<tr>
 <td align="center" width="33%">
 
 **[🖥️ OptiTrack GUI](https://github.com/pushkar156/OptiTrack-GUI)**
@@ -168,6 +179,10 @@ AI-powered crowdsourced road damage detection & auto-dispatch.
 ![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 4 -->
+<tr>
 <td align="center" width="33%">
 
 **[🌐 Morrigan](https://github.com/pushkar156/morrigan)**
@@ -179,10 +194,6 @@ Web app with chatbot backend — active team collaboration.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 4 -->
-<tr>
 <td align="center" width="33%">
 
 **[🔀 Ductus](https://github.com/pushkar156/Ductus)**
@@ -205,6 +216,10 @@ Football player performance analysis with CV & Streamlit dashboard.
 ![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 5 -->
+<tr>
 <td align="center" width="33%">
 
 **[🧭 Career Compass](https://github.com/pushkar156/Career-Compass)**
@@ -216,10 +231,6 @@ AI career counselor with personalized roadmaps & Gemini AI.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 5 -->
-<tr>
 <td align="center" width="33%">
 
 **[🤟 ASL Detection Tool](https://github.com/pushkar156/AmericanSignLanguageCNN)**
@@ -242,6 +253,10 @@ Photo storytelling web app with AI captions & Firebase backend.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 6 -->
+<tr>
 <td align="center" width="33%">
 
 **[🍽️ Aura](https://github.com/pushkar156/4ura)**
@@ -253,10 +268,6 @@ Mobile-first restaurant menu app with 80+ items & dark mode.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 6 -->
-<tr>
 <td align="center" width="33%">
 
 **[🏭 AKSIS](https://github.com/pushkar156/AKSIS)**
@@ -268,7 +279,6 @@ High-performance industrial engineering website with PHP backend.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-<td align="center" width="33%"></td>
 <td align="center" width="33%"></td>
 </tr>
 
@@ -289,7 +299,7 @@ timeline
         : Learned React, Next.js, Three.js, Lenis, and Bootstrap
         : Built backends with Node.js, Flask, FastAPI, and Django
         : Worked with databases — MongoDB, Firestore, MySQL, PostgreSQL
-        : Shipped real projects — Ledger, Santuario, O.V.I., RouteGuard, AKSIS, Aura, Morrigan, Career-Compass
+        : Shipped real projects — Yi Shubharambh, Ledger, Santuario, O.V.I., RouteGuard, AKSIS, Aura, Morrigan, Career-Compass
         : Currently focused on production-grade full-stack development
     DevOps
         : Deployed projects on Vercel, Netlify, and AWS
