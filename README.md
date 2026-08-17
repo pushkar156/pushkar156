@@ -62,8 +62,8 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Projects-17-333333?style=for-the-badge" alt="Total Projects" />
-  <img src="https://img.shields.io/badge/Completed-12-2ea043?style=for-the-badge" alt="Completed" />
+  <img src="https://img.shields.io/badge/Total_Projects-18-333333?style=for-the-badge" alt="Total Projects" />
+  <img src="https://img.shields.io/badge/Completed-13-2ea043?style=for-the-badge" alt="Completed" />
   <img src="https://img.shields.io/badge/Working_On_It-2-d29922?style=for-the-badge" alt="Working On It" />
   <img src="https://img.shields.io/badge/Needs_Improvement-3-da3633?style=for-the-badge" alt="Needs Improvement" />
 </p>
@@ -72,6 +72,17 @@
 
 <!-- Row 1 -->
 <tr>
+<td align="center" width="33%">
+
+**[📥 MediaDrop](https://github.com/pushkar156/MediaDrop)**
+
+A lightweight, free, local web application to extract and download publicly accessible images and videos from Instagram and Pinterest.
+
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=flask) ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) ![JS](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
+
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+
+</td>
 <td align="center" width="33%">
 
 **[🧩 Yi Shubharambh](https://github.com/pushkar156/yi-shubharambh)**
@@ -94,6 +105,10 @@ Calm, precise Progressive Web App (PWA) to monitor daily spending, track recurri
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 2 -->
+<tr>
 <td align="center" width="33%">
 
 **[🌟 Santuario](https://github.com/pushkar156/Santuari0)**
@@ -105,10 +120,6 @@ Privacy-first, multi-view browser new tab extension that transforms your homepag
 ![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 2 -->
-<tr>
 <td align="center" width="33%">
 
 **[🧠 O.V.I.](https://github.com/pushkar156/O.V.I.)**
@@ -131,6 +142,10 @@ AI-powered supply chain risk engine using Gemini for real-time insights.
 ![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 3 -->
+<tr>
 <td align="center" width="33%">
 
 **[🗺️ Campus Route](https://github.com/pushkar156/Campus-Route)**
@@ -142,10 +157,6 @@ Smart navigation & infrastructure planning for MIT-WPU using Dijkstra and MST al
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 3 -->
-<tr>
 <td align="center" width="33%">
 
 **[📦 OptiTrack CLI](https://github.com/pushkar156/OptiTrack-CLI)**
@@ -168,6 +179,10 @@ High-fidelity GUI implementation of OptiTrack with real-time inventory monitorin
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 4 -->
+<tr>
 <td align="center" width="33%">
 
 **[🛣️ Pothole Patrol](https://github.com/pushkar156/Pothole_Patrol)**
@@ -179,10 +194,6 @@ AI-powered crowdsourced road damage detection & auto-dispatch.
 ![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 4 -->
-<tr>
 <td align="center" width="33%">
 
 **[🌐 Morrigan](https://github.com/pushkar156/morrigan)**
@@ -205,6 +216,10 @@ AI-powered flowchart generator using Google Gemini.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 5 -->
+<tr>
 <td align="center" width="33%">
 
 **[⚽ AI Scout](https://github.com/pushkar156/AiScout)**
@@ -216,10 +231,6 @@ Football player performance analysis with CV & Streamlit dashboard.
 ![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 5 -->
-<tr>
 <td align="center" width="33%">
 
 **[🧭 Career Compass](https://github.com/pushkar156/Career-Compass)**
@@ -242,6 +253,10 @@ CNN built from scratch in C++ for ASL gesture recognition — ~88.5% accuracy.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 6 -->
+<tr>
 <td align="center" width="33%">
 
 **[📸 Photo Narrator](https://github.com/pushkar156/PhotoNarrator)**
@@ -253,10 +268,6 @@ Photo storytelling web app with AI captions & Firebase backend.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 6 -->
-<tr>
 <td align="center" width="33%">
 
 **[🍽️ Aura](https://github.com/pushkar156/4ura)**
@@ -279,7 +290,6 @@ High-performance industrial engineering website with PHP backend.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-<td align="center" width="33%"></td>
 </tr>
 
 </table>
@@ -299,7 +309,7 @@ timeline
         : Learned React, Next.js, Three.js, Lenis, and Bootstrap
         : Built backends with Node.js, Flask, FastAPI, and Django
         : Worked with databases — MongoDB, Firestore, MySQL, PostgreSQL
-        : Shipped real projects — Yi Shubharambh, Ledger, Santuario, O.V.I., RouteGuard, AKSIS, Aura, Morrigan, Career-Compass
+        : Shipped real projects — MediaDrop, Yi Shubharambh, Ledger, Santuario, O.V.I., RouteGuard, AKSIS, Aura, Morrigan, Career-Compass
         : Currently focused on production-grade full-stack development
     DevOps
         : Deployed projects on Vercel, Netlify, and AWS
