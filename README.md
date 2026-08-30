@@ -63,15 +63,37 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total_Projects-18-333333?style=for-the-badge" alt="Total Projects" />
-  <img src="https://img.shields.io/badge/Completed-13-2ea043?style=for-the-badge" alt="Completed" />
-  <img src="https://img.shields.io/badge/Working_On_It-2-d29922?style=for-the-badge" alt="Working On It" />
-  <img src="https://img.shields.io/badge/Needs_Improvement-3-da3633?style=for-the-badge" alt="Needs Improvement" />
+  <img src="https://img.shields.io/badge/Completed-14-2ea043?style=for-the-badge" alt="Completed" />
+  <img src="https://img.shields.io/badge/Working_On_It-3-d29922?style=for-the-badge" alt="Working On It" />
+  <img src="https://img.shields.io/badge/Needs_Improvement-1-da3633?style=for-the-badge" alt="Needs Improvement" />
 </p>
 
 <table>
 
 <!-- Row 1 -->
 <tr>
+<td align="center" width="33%">
+
+**[🌾 FasalMitr AI](https://github.com/pushkar156/fasalMitra)**
+
+Smart agricultural market intelligence & direct price discovery platform for smallholder farmers and FPOs, optimizing net realization payout.
+
+![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react) ![TS](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript) ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat-square&logo=google)
+
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+
+**[🤟 SignBridge](https://github.com/pushkar156/SignBridge)**
+
+Multilingual Indian Sign Language (ISL) translation & institutional accessibility platform bridging communication for deaf users.
+
+![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react) ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat-square&logo=google)
+
+![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
+
+</td>
 <td align="center" width="33%">
 
 **[📥 MediaDrop](https://github.com/pushkar156/MediaDrop)**
@@ -83,6 +105,10 @@ A lightweight, free, local web application to extract and download publicly acce
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 2 -->
+<tr>
 <td align="center" width="33%">
 
 **[🧩 Yi Shubharambh](https://github.com/pushkar156/yi-shubharambh)**
@@ -105,10 +131,6 @@ Calm, precise Progressive Web App (PWA) to monitor daily spending, track recurri
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 2 -->
-<tr>
 <td align="center" width="33%">
 
 **[🌟 Santuario](https://github.com/pushkar156/Santuari0)**
@@ -120,6 +142,10 @@ Privacy-first, multi-view browser new tab extension that transforms your homepag
 ![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 3 -->
+<tr>
 <td align="center" width="33%">
 
 **[🧠 O.V.I.](https://github.com/pushkar156/O.V.I.)**
@@ -131,21 +157,6 @@ Omnipresent Voice Intelligence — local AI system for WiFi & Bluetooth connecte
 ![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
 
 </td>
-<td align="center" width="33%">
-
-**[🛡️ Route Guard](https://github.com/pushkar156/RouteGuard)**
-
-AI-powered supply chain risk engine using Gemini for real-time insights.
-
-![JS](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript) ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat-square&logo=google) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat-square&logo=vercel)
-
-![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
-
-</td>
-</tr>
-
-<!-- Row 3 -->
-<tr>
 <td align="center" width="33%">
 
 **[🗺️ Campus Route](https://github.com/pushkar156/Campus-Route)**
@@ -168,6 +179,10 @@ OOPS-based inventory control system featuring RBAC and interactive CLI dashboard
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 4 -->
+<tr>
 <td align="center" width="33%">
 
 **[🖥️ OptiTrack GUI](https://github.com/pushkar156/OptiTrack-GUI)**
@@ -177,21 +192,6 @@ High-fidelity GUI implementation of OptiTrack with real-time inventory monitorin
 ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat-square&logo=c%2B%2B)
 
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
-
-</td>
-</tr>
-
-<!-- Row 4 -->
-<tr>
-<td align="center" width="33%">
-
-**[🛣️ Pothole Patrol](https://github.com/pushkar156/Pothole_Patrol)**
-
-AI-powered crowdsourced road damage detection & auto-dispatch.
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) ![YOLOv8](https://img.shields.io/badge/-YOLOv8-333333?style=flat-square&logo=opencv) ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat-square&logo=fastapi)
-
-![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
@@ -309,7 +309,7 @@ timeline
         : Learned React, Next.js, Three.js, Lenis, and Bootstrap
         : Built backends with Node.js, Flask, FastAPI, and Django
         : Worked with databases — MongoDB, Firestore, MySQL, PostgreSQL
-        : Shipped real projects — MediaDrop, Yi Shubharambh, Ledger, Santuario, O.V.I., RouteGuard, AKSIS, Aura, Morrigan, Career-Compass
+        : Shipped real projects — SignBridge, FasalMitr AI, MediaDrop, Yi Shubharambh, Ledger, Santuario, O.V.I., AKSIS, Aura, Morrigan, Career-Compass
         : Currently focused on production-grade full-stack development
     DevOps
         : Deployed projects on Vercel, Netlify, and AWS
@@ -318,9 +318,9 @@ timeline
         : Automating workflows with n8n and GitHub Actions
     AI / ML
         : Built a CNN from scratch in C++ — no external ML libraries
-        : Applied YOLOv8 for real-time object detection in AiScout and Pothole Patrol
+        : Applied YOLOv8 for real-time object detection in AiScout
         : Integrated LangChain agents for automated municipal dispatch
-        : Used Google Gemini API in RouteGuard, Career-Compass and Ductus
+        : Used Google Gemini API in SignBridge, FasalMitr AI, Career-Compass and Ductus
         : Building O.V.I. — a local AI system for smart home device control
         : Exploring Deep Learning, LLM fine-tuning, and agentic AI systems
     Cyber Security
