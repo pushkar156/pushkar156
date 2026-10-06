@@ -62,8 +62,8 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Projects-20-333333?style=for-the-badge" alt="Total Projects" />
-  <img src="https://img.shields.io/badge/Completed-15-2ea043?style=for-the-badge" alt="Completed" />
+  <img src="https://img.shields.io/badge/Total_Projects-18-333333?style=for-the-badge" alt="Total Projects" />
+  <img src="https://img.shields.io/badge/Completed-13-2ea043?style=for-the-badge" alt="Completed" />
   <img src="https://img.shields.io/badge/Working_On_It-4-d29922?style=for-the-badge" alt="Working On It" />
   <img src="https://img.shields.io/badge/Needs_Improvement-1-da3633?style=for-the-badge" alt="Needs Improvement" />
 </p>
@@ -233,17 +233,6 @@ Web app with chatbot backend — active team collaboration.
 </td>
 <td align="center" width="33%">
 
-**[🔀 Ductus](https://github.com/pushkar156/Ductus)**
-
-AI-powered flowchart generator using Google Gemini.
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript) ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat-square&logo=google)
-
-![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
-
-</td>
-<td align="center" width="33%">
-
 **[⚽ AI Scout](https://github.com/pushkar156/AiScout)**
 
 Football player performance analysis with CV & Streamlit dashboard.
@@ -253,10 +242,6 @@ Football player performance analysis with CV & Streamlit dashboard.
 ![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 6 -->
-<tr>
 <td align="center" width="33%">
 
 **[🧭 Career Compass](https://github.com/pushkar156/Career-Compass)**
@@ -268,6 +253,10 @@ AI career counselor with personalized roadmaps & Gemini AI.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 6 -->
+<tr>
 <td align="center" width="33%">
 
 **[🤟 ASL Detection Tool](https://github.com/pushkar156/AmericanSignLanguageCNN)**
@@ -279,21 +268,6 @@ CNN built from scratch in C++ for ASL gesture recognition — ~88.5% accuracy.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-<td align="center" width="33%">
-
-**[📸 Photo Narrator](https://github.com/pushkar156/PhotoNarrator)**
-
-Photo storytelling web app with AI captions & Firebase backend.
-
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=next.js) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase) ![TS](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript)
-
-![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
-
-</td>
-</tr>
-
-<!-- Row 7 -->
-<tr>
 <td align="center" width="33%">
 
 **[🍽️ Aura](https://github.com/pushkar156/4ura)**
@@ -314,9 +288,6 @@ High-performance industrial engineering website with PHP backend.
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=css3) ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php)
 
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
-
-</td>
-<td align="center" width="33%">
 
 </td>
 </tr>
@@ -350,7 +321,7 @@ timeline
         : Trained custom Keras & MediaPipe gesture recognition models in SignBridge
         : Applied YOLOv8 for real-time object detection in AiScout
         : Developed EWMA statistical forecasting & market intelligence models in FasalMitr AI
-        : Used Google Gemini API in SignBridge, FasalMitr AI, Career-Compass and Ductus
+        : Used Google Gemini API in SignBridge, FasalMitr AI, and Career-Compass
         : Building O.V.I. — a local AI system for smart home device control
         : Exploring Deep Learning, LLM fine-tuning, and agentic AI systems
     Cyber Security
