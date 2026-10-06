@@ -62,9 +62,9 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Projects-18-333333?style=for-the-badge" alt="Total Projects" />
-  <img src="https://img.shields.io/badge/Completed-14-2ea043?style=for-the-badge" alt="Completed" />
-  <img src="https://img.shields.io/badge/Working_On_It-3-d29922?style=for-the-badge" alt="Working On It" />
+  <img src="https://img.shields.io/badge/Total_Projects-20-333333?style=for-the-badge" alt="Total Projects" />
+  <img src="https://img.shields.io/badge/Completed-15-2ea043?style=for-the-badge" alt="Completed" />
+  <img src="https://img.shields.io/badge/Working_On_It-4-d29922?style=for-the-badge" alt="Working On It" />
   <img src="https://img.shields.io/badge/Needs_Improvement-1-da3633?style=for-the-badge" alt="Needs Improvement" />
 </p>
 
@@ -74,7 +74,7 @@
 <tr>
 <td align="center" width="33%">
 
-**[🌾 FasalMitr AI](https://github.com/pushkar156/fasalMitra)**
+**[🌾 FasalMitr](https://github.com/pushkar156/fasalMitra)**
 
 Smart agricultural market intelligence & direct price discovery platform for smallholder farmers and FPOs, optimizing net realization payout.
 
@@ -292,6 +292,35 @@ High-performance industrial engineering website with PHP backend.
 </td>
 </tr>
 
+<!-- Row 7 -->
+<tr>
+<td align="center" width="33%">
+
+**[🛠️ Mini-Services](https://github.com/pushkar156/Mini-Services)**
+
+Unified creative suite (OVI Atelier) featuring 6 micro-services for voice synthesis, text humanization, diagramming, and media extraction.
+
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase)
+
+![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+
+**[🧭 Vistara](https://github.com/pushkar156/Vistara)**
+
+AI education & career pathway simulator for Class 10+ students, modeling multi-year educational trees, global institutions, and loan safety ratios.
+
+![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react) ![TS](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript) ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat-square&logo=google)
+
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+
+</td>
+</tr>
+
 </table>
 
 </div>
@@ -309,7 +338,7 @@ timeline
         : Learned React, Next.js, Tailwind CSS, Three.js, Lenis, and Bootstrap
         : Built backends with Node.js, Flask, FastAPI, and Django
         : Worked with databases — Supabase, MongoDB, Firestore, MySQL, PostgreSQL
-        : Shipped real projects — SignBridge, FasalMitr AI, MediaDrop, Yi Shubharambh, Ledger, Santuario, O.V.I., AKSIS, Aura, Morrigan, Career-Compass
+        : Shipped real projects — Mini-Services, Vistara, SignBridge, FasalMitr AI, MediaDrop, Yi Shubharambh, Ledger, Santuario, O.V.I., AKSIS, Aura, Morrigan, Career-Compass
         : Currently focused on production-grade full-stack development
     DevOps
         : Deployed projects on Vercel, Netlify, and AWS
