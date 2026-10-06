@@ -74,6 +74,28 @@
 <tr>
 <td align="center" width="33%">
 
+**[🛠️ Mini-Services](https://github.com/pushkar156/Mini-Services)**
+
+Unified creative suite (OVI Atelier) featuring 6 micro-services for voice synthesis, text humanization, diagramming, and media extraction.
+
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase)
+
+![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+
+**[🧭 Vistara](https://github.com/pushkar156/Vistara)**
+
+AI education & career pathway simulator for Class 10+ students, modeling multi-year educational trees, global institutions, and loan safety ratios.
+
+![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react) ![TS](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript) ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat-square&logo=google)
+
+![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+
 **[🌾 FasalMitr](https://github.com/pushkar156/fasalMitra)**
 
 Smart agricultural market intelligence & direct price discovery platform for smallholder farmers and FPOs, optimizing net realization payout.
@@ -83,6 +105,10 @@ Smart agricultural market intelligence & direct price discovery platform for sma
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 2 -->
+<tr>
 <td align="center" width="33%">
 
 **[🤟 SignBridge](https://github.com/pushkar156/SignBridge)**
@@ -105,10 +131,6 @@ A lightweight, free, local web application to extract and download publicly acce
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 2 -->
-<tr>
 <td align="center" width="33%">
 
 **[🧩 Yi Shubharambh](https://github.com/pushkar156/yi-shubharambh)**
@@ -120,6 +142,10 @@ Interactive, real-time Word Search challenge with a Supabase-backed dual-screen 
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 3 -->
+<tr>
 <td align="center" width="33%">
 
 **[💳 Ledger](https://github.com/pushkar156/Ledger)**
@@ -142,10 +168,6 @@ Privacy-first, multi-view browser new tab extension that transforms your homepag
 ![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 3 -->
-<tr>
 <td align="center" width="33%">
 
 **[🧠 O.V.I.](https://github.com/pushkar156/O.V.I.)**
@@ -157,6 +179,10 @@ Omnipresent Voice Intelligence — local AI system for WiFi & Bluetooth connecte
 ![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 4 -->
+<tr>
 <td align="center" width="33%">
 
 **[🗺️ Campus Route](https://github.com/pushkar156/Campus-Route)**
@@ -179,10 +205,6 @@ OOPS-based inventory control system featuring RBAC and interactive CLI dashboard
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 4 -->
-<tr>
 <td align="center" width="33%">
 
 **[🖥️ OptiTrack GUI](https://github.com/pushkar156/OptiTrack-GUI)**
@@ -194,6 +216,10 @@ High-fidelity GUI implementation of OptiTrack with real-time inventory monitorin
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 5 -->
+<tr>
 <td align="center" width="33%">
 
 **[🌐 Morrigan](https://github.com/pushkar156/morrigan)**
@@ -216,10 +242,6 @@ AI-powered flowchart generator using Google Gemini.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 5 -->
-<tr>
 <td align="center" width="33%">
 
 **[⚽ AI Scout](https://github.com/pushkar156/AiScout)**
@@ -231,6 +253,10 @@ Football player performance analysis with CV & Streamlit dashboard.
 ![Needs Improvement](https://img.shields.io/badge/🔴-Needs_Improvement-da3633?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 6 -->
+<tr>
 <td align="center" width="33%">
 
 **[🧭 Career Compass](https://github.com/pushkar156/Career-Compass)**
@@ -253,10 +279,6 @@ CNN built from scratch in C++ for ASL gesture recognition — ~88.5% accuracy.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
-</tr>
-
-<!-- Row 6 -->
-<tr>
 <td align="center" width="33%">
 
 **[📸 Photo Narrator](https://github.com/pushkar156/PhotoNarrator)**
@@ -268,6 +290,10 @@ Photo storytelling web app with AI captions & Firebase backend.
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
 </td>
+</tr>
+
+<!-- Row 7 -->
+<tr>
 <td align="center" width="33%">
 
 **[🍽️ Aura](https://github.com/pushkar156/4ura)**
@@ -286,32 +312,6 @@ Mobile-first restaurant menu app with 80+ items & dark mode.
 High-performance industrial engineering website with PHP backend.
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=css3) ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php)
-
-![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
-
-</td>
-</tr>
-
-<!-- Row 7 -->
-<tr>
-<td align="center" width="33%">
-
-**[🛠️ Mini-Services](https://github.com/pushkar156/Mini-Services)**
-
-Unified creative suite (OVI Atelier) featuring 6 micro-services for voice synthesis, text humanization, diagramming, and media extraction.
-
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase)
-
-![Working](https://img.shields.io/badge/🟡-Working_On_It-d29922?style=for-the-badge)
-
-</td>
-<td align="center" width="33%">
-
-**[🧭 Vistara](https://github.com/pushkar156/Vistara)**
-
-AI education & career pathway simulator for Class 10+ students, modeling multi-year educational trees, global institutions, and loan safety ratios.
-
-![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react) ![TS](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript) ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat-square&logo=google)
 
 ![Completed](https://img.shields.io/badge/🟢-Completed-2ea043?style=for-the-badge)
 
